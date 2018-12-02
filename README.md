@@ -1,4 +1,3 @@
 # WeatherApp_Android
-It shows the temperature of the current city or any given city. This application is developed using android architectural components like Room ORM, LiveData, ViewModel and following repository design pattern.
-
- 
+It shows the temperature of the current city or any given city using openweatherapi. This application is developed by implementing new architectural components like Room ORM, LiveData, ViewModel, following Repository design pattern. 
+[alt text](https://github.com/prashantk1220/WeatherApp_Android/blob/master/arch.png) 
