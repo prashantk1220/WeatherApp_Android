@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CityWeather</string>
+    <string name="weather_api_id">116b232079e74036d5d8fd256ceee7f7</string>
+</resources>
